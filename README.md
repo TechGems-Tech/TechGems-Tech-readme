@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indiaantechie
+- 👋 Hi, I’m @indiantechie
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning programming
 - 📫 How to reach me : indiantechie.tech@gmail.com
